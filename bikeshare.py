@@ -162,6 +162,18 @@ def user_stats(df):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
+def show_rawdata(df):
+    start_index=0 #creting start index with 0 as start
+    data_input=input('would you like to view trip data? Enter yes or no\n').lower()#take the input from user to start priniting raw data
+    while True: # starting while loop until (if) statement is False
+        if data_input == 'yes':
+           printed_data= df.iloc[start_index:start_index+5] #using Iloc to get 5 raws of data each time
+           print(printed_data)
+           start_index += 5 # increace the start index by 5 for next raw data printing
+           data_input=input('would you like to view more trip data? Enter yes or no\n').lower() 
+        else:
+            break
+
 
 def main():
     while True:
