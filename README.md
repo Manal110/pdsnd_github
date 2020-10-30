@@ -5,7 +5,7 @@
 Udacity programming of data science -GIT project
 
 ### Description
-Describe what your project is about and what it does
+Udacity nano degree programming data since course 
 
 ### Files used
 Include the files used
