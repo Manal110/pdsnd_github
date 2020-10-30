@@ -180,14 +180,4 @@ def main():
 
 if __name__ == "__main__":
 	main()
-<<<<<<< HEAD
 
-#completed by Manal Alshehri
-||||||| merged common ancestors
-=======
-
-#Completed by Manal
-#for Udacity nano degree program
-#program name: Programming for data since 
-#30 oct 2020
->>>>>>> refactoring

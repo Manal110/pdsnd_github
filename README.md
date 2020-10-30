@@ -1,11 +1,11 @@
 ### Date created
-30-10-2020
+include creating date 
 
 ### Project Title
-Udacity programming of data science -GIT project
+Include Project Title
 
 ### Description
-Udacity nano degree programming data since course 
+Include Description
 
 ### Files used
 Include the files used
