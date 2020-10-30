@@ -175,7 +175,7 @@ def main():
 	show_rawdata(df) #call show_rawdata function
 
         restart = input('\nWould you like to restart? Enter yes or no.\n')
-        if restart.lower() != 'yes':
+        if restart.lower() != 'yes': #using (lower) to handle user input
             break
 
 
