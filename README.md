@@ -2,7 +2,7 @@
 30-10-2020
 
 ### Project Title
-Get
+Udacity programming of data science -GIT project
 
 ### Description
 Describe what your project is about and what it does
