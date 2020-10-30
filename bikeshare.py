@@ -180,3 +180,6 @@ def main():
 
 if __name__ == "__main__":
 	main()
+
+#Completed by Manal
+#for Udacity nano degree program
